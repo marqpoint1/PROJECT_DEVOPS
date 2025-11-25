@@ -14,10 +14,10 @@ function App() {
   return (
     <div>
 
-     <Button counter = {increment} count = {count}> 
-      <p>click me , BRANCH A 
-      </p>
-      </Button>
+<Button counter={increment} count={count}>
+  <p>click me , from branchA + branchB </p>
+</Button>
+
       
 
      {/* <Card name = "bansal ji">
